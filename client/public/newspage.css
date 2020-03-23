@@ -1,0 +1,102 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.news h1 {
+	text-align: center;
+	margin-top: 2.5em;
+	color: #6699ff;
+}
+
+.image1 {
+  width: 50%;
+  height: 550px;
+  margin-top: 1em;
+  margin-left: 22.3em;
+}
+
+.container1 h2 {
+  position: absolute;
+  display: block;
+  color: #6699ff;
+  background-color: white;
+  top: 14em;
+  left: 37em;
+  text-align: center;
+}
+
+.container2 h4 {
+  position: absolute;
+  display: block;
+  color: #6699ff;
+  background-color: white;
+  top: 20em;
+  left: 5em;
+  text-align: center;
+}
+
+.container3 h4 {
+  position: absolute;
+  display: block;
+  color: #6699ff;
+  background-color: white;
+  top: 39em;
+  left: 5em;
+  text-align: center;
+}
+
+.container4 h4 {
+  position: absolute;
+  display: block;
+  color: #6699ff;
+  background-color: white;
+  top: 39em;
+  right: 5em;
+  text-align: center;
+}
+
+.container5 h4 {
+  position: absolute;
+  display: block;
+  color: #6699ff;
+  background-color: white;
+  top: 20em;
+  right: 5em;
+  text-align: center;
+}
+
+.container2 > a > img {
+  position: absolute;
+  display: block;
+  width: 21%;
+  height: 250px;
+  top: 9.6em;
+  left: 3em;
+
+}
+.container3 > a > img {
+  position: absolute;
+  display: block;
+  width: 21%;
+  height: 243px;
+  top: 28em;
+  left: 3em;
+}
+
+.container4 > a > img {
+  position: absolute;
+  display: block;
+  width: 21%;
+  height: 243px;
+  top: 28em;
+  right: 3em;
+}
+
+.container5 > a > img {
+  position: absolute;
+  display: block;
+  width: 21%;
+  height: 250px;
+  top: 9.6em;
+  right: 3em;
+}
